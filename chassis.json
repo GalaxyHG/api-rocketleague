@@ -1,0 +1,242 @@
+{
+  "chassis": [
+    {
+      "id": 1,
+      "name": "Octane",
+      "rarity": "Import",
+      "type": "Standard",
+      "decals": ["Buzz Kill", "Christmas Tree", "Dune Racer"]
+    },
+    {
+      "id": 2,
+      "name": "Dominus",
+      "rarity": "Exotic",
+      "type": "Standard",
+      "decals": ["Funny Book", "MDGA", "Suji"]
+    },
+    {
+      "id": 3,
+      "name": "Merc",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Flames", "Shaperacer", "Warlock"]
+    },
+    {
+      "id": 4,
+      "name": "Breakout",
+      "rarity": "Rare",
+      "type": "Standard",
+      "decals": ["Astaroth", "Distortion", "Froggy"]
+    },
+    {
+      "id": 5,
+      "name": "Twinzer",
+      "rarity": "Very Rare",
+      "type": "Standard",
+      "decals": ["Funny Book", "MDGA", "Suji"]
+    },
+    {
+      "id": 6,
+      "name": "Hotshot",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Hi-Tech", "Palm Tree"]
+    },
+    {
+      "id": 7,
+      "name": "Gizmo",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Mean Streak", "Pollinator"]
+    },
+    {
+      "id": 8,
+      "name": "Backfire",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Flames", "Stars", "Lightning"]
+    },
+    {
+      "id": 9,
+      "name": "X-Devil",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Cobra", "Snakeskin", "Wings"]
+    },
+    {
+      "id": 10,
+      "name": "Paladin",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Warlock", "Wings", "Tribal"]
+    },
+    {
+      "id": 11,
+      "name": "Road Hog",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Carbonated", "Flames"]
+    },
+    {
+      "id": 12,
+      "name": "Venom",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Flex", "Flames", "Nine Lives"]
+    },
+    {
+      "id": 13,
+      "name": "Aftershock",
+      "rarity": "Import",
+      "type": "Standard",
+      "decals": ["Big Data", "Machine"]
+    },
+    {
+      "id": 14,
+      "name": "Esper",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Flames", "Stripes", "Tiger"]
+    },
+    {
+      "id": 15,
+      "name": "Grog",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Dogpile", "Flames", "Stars"]
+    },
+    {
+      "id": 16,
+      "name": "Marauder",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Houndstooth", "Rhino", "Wings"]
+    },
+    {
+      "id": 17,
+      "name": "Masamune",
+      "rarity": "Exotic",
+      "type": "Standard",
+      "decals": ["Kawaii", "Oni"]
+    },
+    {
+      "id": 18,
+      "name": "Proteus",
+      "rarity": "Import",
+      "type": "Standard",
+      "decals": ["Stripes", "Tech"]
+    },
+    {
+      "id": 19,
+      "name": "Ripper",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Flames", "Jaws", "Squad"]
+    },
+    {
+      "id": 20,
+      "name": "Takumi",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Combo", "Distortion", "Reiko"]
+    },
+    {
+      "id": 21,
+      "name": "Peregrine TT",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Jiangshi", "Rebirth"]
+    },
+    {
+      "id": 22,
+      "name": "Fennec",
+      "rarity": "Import",
+      "type": "Standard",
+      "decals": ["Blazer", "Bravo", "Cinematic"]
+    },
+    {
+      "id": 23,
+      "name": "Imperator DT5",
+      "rarity": "Import",
+      "type": "Standard",
+      "decals": ["Speedwagon", "Tiger"]
+    },
+    {
+      "id": 24,
+      "name": "Tygris",
+      "rarity": "Common",
+      "type": "Standard",
+      "decals": ["Butterfly", "Flames", "Unmasked"]
+    },
+    {
+      "id": 25,
+      "name": "Werewolf",
+      "rarity": "Exotic",
+      "type": "Standard",
+      "decals": ["Savage", "Tiger"]
+    },
+    {
+      "id": 26,
+      "name": "Ecto-1",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["Ghostbusters", "Ecto-1"]
+    },
+    {
+      "id": 27,
+      "name": "Ford Mustang",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["Ford Mustang", "Ford Mustang (2021)"]
+    },
+    {
+      "id": 28,
+      "name": "Chevrolet Camaro",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["Chevrolet Camaro", "Chevrolet Camaro (2021)"]
+    },
+    {
+      "id": 29,
+      "name": "Toyota Camry",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["Toyota Camry"]
+    },
+    {
+      "id": 30,
+      "name": "007's Aston Martin DB5",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["007's Aston Martin DB5"]
+    },
+    {
+      "id": 31,
+      "name": "007's Aston Martin Valhalla",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["007's Aston Martin Valhalla"]
+    },
+    {
+      "id": 32,
+      "name": "Ford Mustang Shelby",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["Ford Mustang Shelby"]
+    },
+    {
+      "id": 33,
+      "name": "K.I.T.T.",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["K.I.T.T."]
+    },
+    {
+      "id": 34,
+      "name": "DeLorean Time Machine",
+      "rarity": "Licensed",
+      "type": "Special",
+      "decals": ["DeLorean Time Machine"]
+    }
+  ]
+}
