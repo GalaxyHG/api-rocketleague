@@ -2,241 +2,747 @@
   "chassis": [
     {
       "id": 1,
-      "name": "Octane",
-      "rarity": "Import",
-      "type": "Standard",
-      "decals": ["Buzz Kill", "Christmas Tree", "Dune Racer"]
+      "name": "Ace",
+      "rarity": "Limited",
+      "image": ""
     },
     {
       "id": 2,
-      "name": "Dominus",
-      "rarity": "Exotic",
-      "type": "Standard",
-      "decals": ["Funny Book", "MDGA", "Suji"]
+      "name": "Animus GP",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 3,
-      "name": "Merc",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Flames", "Shaperacer", "Warlock"]
+      "name": "Breakout",
+      "rarity": "Rare",
+      "image": ""
     },
     {
       "id": 4,
-      "name": "Breakout",
-      "rarity": "Rare",
-      "type": "Standard",
-      "decals": ["Astaroth", "Distortion", "Froggy"]
+      "name": "Breakout Type-S",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 5,
-      "name": "Twinzer",
-      "rarity": "Very Rare",
-      "type": "Standard",
-      "decals": ["Funny Book", "MDGA", "Suji"]
+      "name": "Cyclone",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 6,
-      "name": "Hotshot",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Hi-Tech", "Palm Tree"]
+      "name": "Diesel",
+      "rarity": "Rare",
+      "image": ""
     },
     {
       "id": 7,
-      "name": "Gizmo",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Mean Streak", "Pollinator"]
+      "name": "Emperor/Emperor II",
+      "rarity": "Rare",
+      "image": ""
     },
     {
       "id": 8,
-      "name": "Backfire",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Flames", "Stars", "Lightning"]
+      "name": "Komodo",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 9,
-      "name": "X-Devil",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Cobra", "Snakeskin", "Wings"]
+      "name": "Mazda-RX7",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 10,
-      "name": "Paladin",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Warlock", "Wings", "Tribal"]
+      "name": "Nexus/Nexus SC",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 11,
-      "name": "Road Hog",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Carbonated", "Flames"]
+      "name": "Redline",
+      "rarity": "Limited",
+      "image": ""
     },
     {
       "id": 12,
-      "name": "Venom",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Flex", "Flames", "Nine Lives"]
+      "name": "Samurai",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 13,
-      "name": "Aftershock",
-      "rarity": "Import",
-      "type": "Standard",
-      "decals": ["Big Data", "Machine"]
+      "name": "Whiplash",
+      "rarity": "Limited",
+      "image": ""
     },
     {
       "id": 14,
-      "name": "Esper",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Flames", "Stripes", "Tiger"]
+      "name": "‘89 Batmobile",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 15,
-      "name": "Grog",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Dogpile", "Flames", "Stars"]
+      "name": "007’s Aston Martin DBS",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 16,
-      "name": "Marauder",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Houndstooth", "Rhino", "Wings"]
+      "name": "007's Aston Martin Valhalla",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 17,
-      "name": "Masamune",
-      "rarity": "Exotic",
-      "type": "Standard",
-      "decals": ["Kawaii", "Oni"]
+      "name": "Aftershock",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 18,
-      "name": "Proteus",
-      "rarity": "Import",
-      "type": "Standard",
-      "decals": ["Stripes", "Tech"]
+      "name": "Batmobile (2022)",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 19,
-      "name": "Ripper",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Flames", "Jaws", "Squad"]
+      "name": "Bumblebee Car",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 20,
-      "name": "Takumi",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Combo", "Distortion", "Reiko"]
+      "name": "BMW M240i",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 21,
-      "name": "Peregrine TT",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Jiangshi", "Rebirth"]
+      "name": "Chikara/Chikara G1/Chikara GXT",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 22,
-      "name": "Fennec",
-      "rarity": "Import",
-      "type": "Standard",
-      "decals": ["Blazer", "Bravo", "Cinematic"]
+      "name": "DeLorean Time Machine",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 23,
-      "name": "Imperator DT5",
+      "name": "Diestro",
       "rarity": "Import",
-      "type": "Standard",
-      "decals": ["Speedwagon", "Tiger"]
+      "image": ""
     },
     {
       "id": 24,
-      "name": "Tygris",
-      "rarity": "Common",
-      "type": "Standard",
-      "decals": ["Butterfly", "Flames", "Unmasked"]
+      "name": "Dominus",
+      "rarity": "Rare",
+      "image": ""
     },
     {
       "id": 25,
-      "name": "Werewolf",
-      "rarity": "Exotic",
-      "type": "Standard",
-      "decals": ["Savage", "Tiger"]
+      "name": "Dominus GT",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 26,
-      "name": "Ecto-1",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["Ghostbusters", "Ecto-1"]
+      "name": "Ecto-1 (Ghostbusters)",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 27,
-      "name": "Ford Mustang",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["Ford Mustang", "Ford Mustang (2021)"]
+      "name": "Fast and Furious Dodge Charger",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 28,
-      "name": "Chevrolet Camaro",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["Chevrolet Camaro", "Chevrolet Camaro (2021)"]
+      "name": "Ferrari 296 GTB",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 29,
-      "name": "Toyota Camry",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["Toyota Camry"]
+      "name": "Ford Mustang Shelby GT350R RLE",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 30,
-      "name": "007's Aston Martin DB5",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["007's Aston Martin DB5"]
+      "name": "Gazella GT (Hot Wheels)",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 31,
-      "name": "007's Aston Martin Valhalla",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["007's Aston Martin Valhalla"]
+      "name": "Guardian/Guardian G1/Guardian GXT",
+      "rarity": "Import",
+      "image": ""
     },
     {
       "id": 32,
-      "name": "Ford Mustang Shelby",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["Ford Mustang Shelby"]
+      "name": "Hotshot",
+      "rarity": "Rare",
+      "image": ""
     },
     {
       "id": 33,
-      "name": "K.I.T.T.",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["K.I.T.T."]
+      "name": "Ice Charger",
+      "rarity": "Premium",
+      "image": ""
     },
     {
       "id": 34,
-      "name": "DeLorean Time Machine",
-      "rarity": "Licensed",
-      "type": "Special",
-      "decals": ["DeLorean Time Machine"]
+      "name": "Imperator DT5",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 35,
+      "name": "K.I.T.T. (Knight Rider)",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 36,
+      "name": "Lamborghini Countach LPI 800-4",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 37,
+      "name": "Lamborghini Huracán STO",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 38,
+      "name": "Lightning McQueen Car",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 39,
+      "name": "Maestro",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 40,
+      "name": "Mamba",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 41,
+      "name": "Masamune",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 42,
+      "name": "Maverick/Maverick G1/Maverick GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 43,
+      "name": "McLaren 570S",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 44,
+      "name": "McLaren 765LT",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 45,
+      "name": "MR11 (Hot Wheels)",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 46,
+      "name": "NASCAR Chevrolet Camaro",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 47,
+      "name": "NASCAR Ford Mustang",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 48,
+      "name": "NASCAR Toyota Camry",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 49,
+      "name": "NASCAR Next Gen Chevrolet Camaro (2022)",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 50,
+      "name": "NASCAR Next Gen Ford Mustang (2022)",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 51,
+      "name": "NASCAR Next Gen Toyota Camry (2022)",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 52,
+      "name": "Nemesis",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 53,
+      "name": "Nissan Z Performance Car",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 54,
+      "name": "Peregrine TT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 55,
+      "name": "Porsche 911 Turbo",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 56,
+      "name": "Ripper",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 57,
+      "name": "Ronin/Ronin G1/Ronin GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 58,
+      "name": "Samus’ Gunship",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 59,
+      "name": "Scorpion",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 60,
+      "name": "Tyranno/Tyranno GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 61,
+      "name": "Werewolf",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 62,
+      "name": "Endo",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 63,
+      "name": "Esper",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 64,
+      "name": "Fast and Furious Nissan Skyline",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 65,
+      "name": "Fast and Furious Pontiac Fiero",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 66,
+      "name": "Insidio",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 67,
+      "name": "Jäger 619 RS",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 68,
+      "name": "Nimbus",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 69,
+      "name": "Nissan Silvia/Nissan Silvia RLE",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 70,
+      "name": "Primo",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 71,
+      "name": "R3MX/R3MX GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 72,
+      "name": "Tygris",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 73,
+      "name": "Venom",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 74,
+      "name": "X-Devil",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 75,
+      "name": "X-Devil MK2",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 76,
+      "name": "Battle Bus",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 77,
+      "name": "Ford Bronco Raptor RLE",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 78,
+      "name": "Merc",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 79,
+      "name": "Nomad/Nomad GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 80,
+      "name": "007’s Aston Martin DB5",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 81,
+      "name": "Armadillo",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 82,
+      "name": "Backfire",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 83,
+      "name": "Bone Shaker",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 84,
+      "name": "Dingo",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 85,
+      "name": "Fast 4WD (Hot Wheels)",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 86,
+      "name": "Fennec",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 87,
+      "name": "Ford F-150 RLE",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 88,
+      "name": "Ford Mustang Mach-E RLE",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 89,
+      "name": "Gizmo",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 90,
+      "name": "Grog",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 91,
+      "name": "Harbinger/Harbinger GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 92,
+      "name": "Hogsticker",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 93,
+      "name": "Honda Civic Type R/Honda Civic Type R-LE",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 94,
+      "name": "Jackal",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 95,
+      "name": "Jurassic Jeep Wrangler",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 96,
+      "name": "Marauder",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 97,
+      "name": "Mario NSR/Luigi NSR",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 98,
+      "name": "Mudcat/Mudcat G1/Mudcat GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 99,
+      "name": "Octane",
+      "rarity": "Common",
+      "image": ""
+    },
+    {
+      "id": 100,
+      "name": "Octane ZSR",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 101,
+      "name": "Outlaw/Outlaw GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 102,
+      "name": "Proteus",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 103,
+      "name": "Road Hog",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 104,
+      "name": "Road Hog XL",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 105,
+      "name": "Scarab",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 106,
+      "name": "Sweet Tooth",
+      "rarity": "Limited",
+      "image": ""
+    },
+    {
+      "id": 107,
+      "name": "Takumi",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 108,
+      "name": "Takumi RX-T",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 109,
+      "name": "Triton",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 110,
+      "name": "The Dark Knight Tumbler",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 111,
+      "name": "Twinzer",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 112,
+      "name": "Volkswagen Golf GTI RLE/Volkswagen Golf GTI",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 113,
+      "name": "Vulcan",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 114,
+      "name": "Zippy",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 115,
+      "name": "‘16 Batmobile",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 116,
+      "name": "Bugatti Centodieci",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 117,
+      "name": "Artemis/Artemis G1/Artemis GXT",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 118,
+      "name": "Centio",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 119,
+      "name": "Formula 1 2021",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 120,
+      "name": "Formula 1 2022",
+      "rarity": "Premium",
+      "image": ""
+    },
+    {
+      "id": 121,
+      "name": "Mantis",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 122,
+      "name": "Paladin",
+      "rarity": "Rare",
+      "image": ""
+    },
+    {
+      "id": 123,
+      "name": "Sentinel",
+      "rarity": "Import",
+      "image": ""
+    },
+    {
+      "id": 124,
+      "name": "Twin Mill III",
+      "rarity": "Premium",
+      "image": ""
     }
   ]
 }
