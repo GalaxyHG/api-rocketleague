@@ -1,0 +1,20 @@
+{
+    "passes": [
+        {
+            "id": 1,
+            "SeasonName": "Rocket Pass 1",
+            "CarSeason": "Maverick",
+            "year": "2018" 
+
+        }
+    ],
+
+    "passesEpic": [
+        {
+            "id": 1,
+            "SeasonName": "Season 1",
+            "CarSeason": "Harbinger",
+            "year": "2020"
+        }
+    ]
+}
