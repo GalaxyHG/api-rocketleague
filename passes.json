@@ -1,20 +1,152 @@
 {
-    "passes": [
+    "legacy": [
         {
             "id": 1,
             "SeasonName": "Rocket Pass 1",
             "CarSeason": "Maverick",
             "year": "2018" 
+        },
 
+        {
+            "id": 2,
+            "SeasonaName": "Rocket Pass 2",
+            "CarSeason": "Artemis",
+            "year": "2018" 
+        },
+
+        {
+            "id": 3,
+            "SeasonName": "Rocket Pass 3",
+            "CarSeason": "Guardian",
+            "year": "2019" 
+        },
+
+        {
+            "id": 4,
+            "SeasonName": "Rocket Pass 4",
+            "CarSeason": "Mudcat",
+            "year": "2019" 
+        },
+
+        {
+            "id": 5,
+            "SeasonName": "Rocket Pass 5",
+            "CarSeason": "Chikara",
+            "year": "2019" 
+        },
+
+        {
+            "id": 6,
+            "SeasonName": "Rocket Pass 6",
+            "CarSeason": "Ronin",
+            "year": "2020" 
         }
     ],
 
-    "passesEpic": [
+    "seasons": [
         {
             "id": 1,
             "SeasonName": "Season 1",
             "CarSeason": "Harbinger",
             "year": "2020"
+        },
+
+        {
+            "id": 2,
+            "SeasonName": "Season 2",
+            "CarSeason": "R3MX",
+            "year": "2020"
+        },
+
+        {
+            "id": 3,
+            "SeasonName": "Season 3",
+            "CarSeason": "Artemis",
+            "year": "2021"
+        },
+        
+        {
+            "id": 4,
+            "SeasonName": "Season 4",
+            "CarSeason": "Outlaw",
+            "year": "2021"
+        },
+
+        {
+            "id": 5,
+            "SeasonName": "Season 5",
+            "CarSeason": "Nexus",
+            "year": "2021"
+        },
+
+        {
+            "id": 6,
+            "SeasonName": "Season 6",
+            "CarSeason": "Nomad",
+            "year": "2022"
+        },
+
+        {
+            "id": 7,
+            "SeasonName": "Season 7",
+            "CarSeason": "Maestro",
+            "year": "2022"
+        },
+
+        {
+            "id": 8,
+            "SeasonName": "Season 8",
+            "CarSeason": "Honda Civic Type R",
+            "year": "2022"
+        },
+        
+        {
+            "id": 9,
+            "SeasonName": "Season 9",
+            "CarSeason": "Emperor",
+            "year": "2022"
+        },
+
+        {
+            "id": 10,
+            "SeasonName": "Season 10",
+            "CarSeason": "Volkswagen Golf GTI",
+            "year": "2023"
+        },
+
+        {
+            "id": 11,
+            "SeasonName": "Season 11",
+            "CarSeason": "Nissan Silvia",
+            "year": "2023"
+        },
+
+        {
+            "id": 12,
+            "SeasonName": "Season 12",
+            "CarSeason": "Porsche 911 Turbo",
+            "year": "2023"
+        },
+
+        {
+            "id": 13,
+            "SeasonName": "Season 13",
+            "CarSeason": "Ace and Primo",
+            "year": "2023"
+        },
+
+        {
+            "id": 14,
+            "SeasonName": "Season 14",
+            "CarSeason": "Admiral and Mako",
+            "year": "2024"
+        },
+
+        {
+            "id": 15,
+            "SeasonName": "Season 15",
+            "CarSeason": "Nissan Fairlady",
+            "year": "2024"
         }
     ]
 }
